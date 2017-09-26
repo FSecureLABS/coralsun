@@ -22,4 +22,4 @@ Version 0.1
 
 <h2>API Usage</h2>
 
-Examples of usage are inclided the iokit_test.py unit test script. 
+Examples of usage are included in the iokit_test.py unit test script. 
